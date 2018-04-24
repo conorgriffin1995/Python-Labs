@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonApplicationLabsheet", "PythonApplicationLabsheet\PythonApplicationLabsheet.pyproj", "{D315FB31-7E5C-4BA8-B770-93E290ABE733}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D315FB31-7E5C-4BA8-B770-93E290ABE733}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D315FB31-7E5C-4BA8-B770-93E290ABE733}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23F28C4E-F251-40BD-B7A1-AF5C52A2A8D3}
+	EndGlobalSection
+EndGlobal
